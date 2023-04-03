@@ -4,13 +4,13 @@
     height: 2px;
   }
   .custom-slider .ngx-slider .ngx-slider-selection {
-    background: rgb(0, 255, 85);
+    background: rgb(22, 230, 91);
     height: 5px;
   }
 
   .custom-slider .ngx-slider .ngx-slider-pointer {
     width: 8px;
-    height: 16px;
+    height: 15px;
     top: auto; /* to remove the default positioning */
     bottom: 0;
     background-color: #333;
@@ -28,7 +28,7 @@
 
   .custom-slider .ngx-slider .ngx-slider-limit {
     font-weight: bold;
-    color: rgb(30, 255, 0);
+    color: rgb(0, 0, 0);
   }
 
   .custom-slider .ngx-slider .ngx-slider-tick {
@@ -41,7 +41,7 @@
   }
 
   .custom-slider .ngx-slider .ngx-slider-tick.ngx-slider-selected {
-    background: rgb(36, 243, 9);
+    background: rgb(0, 0, 0);
   }
 }
 
